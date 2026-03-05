@@ -1,4 +1,4 @@
-# Static Website Hosting Using AWS S3 & Route 53
+# Portfolio Hosting Using AWS S3 & Route 53
 
 ## Project Overview
 This project demonstrates hosting a static website using *AWS S3* with a custom domain configured via *AWS Route 53*.  
